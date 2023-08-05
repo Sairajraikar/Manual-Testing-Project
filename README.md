@@ -1,6 +1,6 @@
 # Manual-Testing-Project
 
-NOTE : To access the content, please download the files from the respective folders in this repository. 
+To view online checkout this link : https://drive.google.com/drive/folders/1NA4p5OxKrmWVh4Gg9IX4pgJFtrGREtcb?usp=sharing
 
 Repository Structure
 --------------------
